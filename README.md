@@ -15,7 +15,7 @@ Este projeto foi criado para validar e armazenar grande volume de CPFs a partir 
 1. Clone o repositório:
 
     ```sh
-    git clone https://github.com/seu-usuario/cpf-validation-api.git
+    git clone https://github.com/seu-usuario/cpf-validation.git
     cd cpf-validation-api
     ```
 
